@@ -10,7 +10,7 @@ except ImportError:
     import Tkinter as tk
     import ttk
 
-from back import *
+from backend import *
 
 class Window_entrance(Tk):
     def __init__(self):
